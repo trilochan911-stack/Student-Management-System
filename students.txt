@@ -1,0 +1,16 @@
+Rohit Mahato
+10
+5
+science 94
+hindi 99
+english 87
+socialscience 98
+mathematics 65
+Vikash Gope
+1
+5
+science 65
+hindi 85
+english 89
+socialscience 98
+mathematics 90
